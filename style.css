@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./images/1000_F_268300740_o3X57Nepb2DoXN9pBMV7NJKv7u2fg66K.jpg');
+    background-size: cover;
+    background-position: center; 
+   
+}
+.content{
+    text-align: center;
+    margin-top: 180px;
+}
+h1{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+}
+
+#result{
+    color: rgba(10, 219, 219, 0.911);
+    font-size: 30px;
+   
+}
